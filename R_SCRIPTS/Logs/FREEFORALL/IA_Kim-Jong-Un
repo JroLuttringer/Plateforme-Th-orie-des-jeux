@@ -1,0 +1,15 @@
+IA_Kim-Jong-Un	Prendre	1	Fer	200	200	0	0	0.0
+IA_Kim-Jong-Un	Prendre	1	Petrole	200	200	0	200	0.567
+IA_Kim-Jong-Un	Prendre	1	Fer	200	400	0	200	1.024
+IA_Kim-Jong-Un	Prendre	1	Petrole	200	400	0	400	1.536
+IA_Kim-Jong-Un	Prendre	1	Fer	200	600	0	400	2.36
+IA_Kim-Jong-Un	Prendre	1	Petrole	200	600	0	600	2.57
+IA_Kim-Jong-Un	Prendre	1	Fer	200	800	0	600	3.18
+IA_Kim-Jong-Un	Prendre	1	Petrole	200	800	0	800	3.773
+IA_Kim-Jong-Un	Prendre	1	Fer	200	1000	0	800	4.008
+IA_Kim-Jong-Un	Prendre	1	Petrole	200	1000	0	1000	4.626
+IA_Kim-Jong-Un	Prendre	1	Fer	200	1200	0	1000	5.46
+IA_Kim-Jong-Un	Prendre	1	Petrole	200	1200	0	1200	6.237
+IA_Kim-Jong-Un	Prendre	1	Fer	200	1400	0	1200	7.044
+IA_Kim-Jong-Un	Prendre	1	Fer	200	1600	0	1200	7.423
+IA_Kim-Jong-Un	Fin	1	None	-1	1600	0	1200	7.423

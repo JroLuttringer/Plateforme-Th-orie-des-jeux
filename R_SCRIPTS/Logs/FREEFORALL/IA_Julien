@@ -1,0 +1,16 @@
+IA_Julien	Prendre	1	Or	200	0	200	0	0.0
+IA_Julien	Prendre	1	Fer	200	200	200	0	0.536
+IA_Julien	Prendre	1	Fer	200	400	200	0	1.152
+IA_Julien	Prendre	1	Or	200	400	400	0	1.791
+IA_Julien	Prendre	1	Or	200	400	600	0	2.372
+IA_Julien	Prendre	1	Or	200	400	800	0	2.95
+IA_Julien	Prendre	1	Fer	200	600	800	0	3.342
+IA_Julien	Prendre	1	Or	200	600	1000	0	3.99
+IA_Julien	Prendre	1	Or	200	600	1200	0	4.136
+IA_Julien	Prendre	1	Or	200	600	1400	0	4.86
+IA_Julien	Prendre	1	Or	200	600	1600	0	5.82
+IA_Julien	Prendre	1	Or	200	600	1800	0	6.226
+IA_Julien	Prendre	1	Or	200	600	2000	0	6.504
+IA_Julien	Prendre	1	Fer	200	800	2000	0	6.838
+IA_Julien	Prendre	1	Or	200	800	2200	0	7.518
+IA_Julien	Fin	1	None	-1	800	2200	0	7.518

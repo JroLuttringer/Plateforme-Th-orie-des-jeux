@@ -1,0 +1,10 @@
+JOUEUR_Jro	Prendre	1	Petrole	25	0	0	25	0.0
+JOUEUR_Jro	Prendre	1	Or	25	0	25	25	1.0
+JOUEUR_Jro	Prendre	1	Or	25	0	50	25	2.0
+JOUEUR_Jro	Fin	1	None	-1	0	50	25	3.0
+IA_Or	Prendre	1	Or	25	0	25	0	0.0
+IA_Or	Prendre	1	Or	25	0	45	0	1.0
+IA_Or	Prendre	1	Or	25	0	70	0	2.0
+IA_Petrole	Vol	1	Or	5	0	5	0	0.0
+IA_Petrole	Prendre	1	Petrole	25	0	5	25	1.0
+IA_Petrole	Prendre	1	Or	25	0	30	25	2.0

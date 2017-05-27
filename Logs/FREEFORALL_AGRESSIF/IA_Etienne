@@ -1,0 +1,11 @@
+IA_Etienne	Prendre	1	Or	200	0	200	0	0.0
+IA_Etienne	Voler	0	Or	0	0	200	0	0.119
+IA_Etienne	Prendre	1	Fer	200	200	200	0	0.243
+IA_Etienne	Prendre	1	Or	200	200	400	0	0.339
+IA_Etienne	Prendre	1	Or	200	200	600	0	0.40399998
+IA_Etienne	Prendre	1	Petrole	200	200	600	200	0.45599997
+IA_Etienne	Prendre	1	Fer	200	400	600	200	0.528
+IA_Etienne	Prendre	1	Petrole	200	400	600	400	0.601
+IA_Etienne	Prendre	1	Fer	200	600	600	400	0.69
+IA_Etienne	Prendre	1	Petrole	200	600	600	600	0.798
+IA_Etienne	Fin	1	None	-1	600	600	600	0.798

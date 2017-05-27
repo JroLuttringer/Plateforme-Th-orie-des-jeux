@@ -1,0 +1,17 @@
+IA_Ronaldo	Voler	0	Or	0	0	0	0	0.0
+IA_Ronaldo	Prendre	1	Or	200	0	200	0	0.148
+IA_Ronaldo	Prendre	1	Or	200	0	400	0	0.27600002
+IA_Ronaldo	Prendre	1	Fer	200	200	400	0	0.38200003
+IA_Ronaldo	Prendre	1	Or	200	200	600	0	0.50600004
+IA_Ronaldo	Prendre	1	Petrole	200	200	600	200	0.65200007
+IA_Ronaldo	Prendre	1	Or	200	200	800	200	0.75000006
+IA_Ronaldo	Prendre	1	Fer	200	400	800	200	0.84400004
+IA_Ronaldo	Prendre	1	Petrole	200	400	800	400	0.97200006
+IA_Ronaldo	Prendre	1	Fer	200	600	800	400	1.07
+IA_Ronaldo	Prendre	1	Or	200	600	1000	400	1.2010001
+IA_Ronaldo	Prendre	1	Petrole	200	600	1000	600	1.32
+IA_Ronaldo	Prendre	1	Or	200	600	1200	600	1.398
+IA_Ronaldo	Prendre	1	Petrole	200	600	1200	800	1.462
+IA_Ronaldo	Prendre	1	Petrole	200	600	1200	1000	1.577
+IA_Ronaldo	Prendre	1	Petrole	200	600	1200	1200	1.709
+IA_Ronaldo	Fin	1	None	-1	600	1200	1200	1.709

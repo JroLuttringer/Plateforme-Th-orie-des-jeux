@@ -1,0 +1,17 @@
+IA_Sadam-Hussein	Prendre	1	Petrole	200	0	0	200	0.0
+IA_Sadam-Hussein	Prendre	1	Or	200	0	200	200	0.147
+IA_Sadam-Hussein	Vol	1	Or	183	0	383	200	0.28100002
+IA_Sadam-Hussein	Prendre	1	Petrole	200	0	383	400	0.34900004
+IA_Sadam-Hussein	Prendre	1	Or	200	0	583	400	0.42500004
+IA_Sadam-Hussein	Prendre	1	Petrole	200	0	583	600	0.48400003
+IA_Sadam-Hussein	Prendre	1	Or	200	0	710	600	0.63100004
+IA_Sadam-Hussein	Prendre	1	Petrole	200	0	710	800	0.68600005
+IA_Sadam-Hussein	Prendre	1	Or	200	0	910	800	0.82000005
+IA_Sadam-Hussein	Prendre	1	Petrole	200	0	910	1000	0.89500004
+IA_Sadam-Hussein	Vol	1	Or	21	0	931	1000	1.036
+IA_Sadam-Hussein	Vol	1	Petrole	84	0	931	1084	1.095
+IA_Sadam-Hussein	Vol	1	Fer	194	194	931	1084	1.1830001
+IA_Sadam-Hussein	Prendre	1	Fer	200	394	931	1084	1.2540001
+IA_Sadam-Hussein	Prendre	1	Fer	200	594	931	1084	1.3900001
+IA_Sadam-Hussein	Prendre	1	Fer	200	794	931	1084	1.4970001
+IA_Sadam-Hussein	Prendre	1	Or	200	794	1131	1084	1.6110001
